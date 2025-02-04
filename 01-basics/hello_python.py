@@ -1,3 +1,6 @@
-from hello_python import chai
+print("chai aur python")
 
-chai("lemon tea")
+def chai(n):
+    print(n)
+
+chai("ginger tea")
